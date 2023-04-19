@@ -102,7 +102,7 @@ Assign Permissions: ost-config.php
 <p> - Add a new permission -> everyone -> all </p>
 
 <p>
-<img src="https://i.imgur.com/nAW9lEW.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/G15sQQG.png" height="80%" width="80%" alt=""/>
 </p>
 
 Continue Setting up osTicket in browser
@@ -110,7 +110,7 @@ Continue Setting up osTicket in browser
 <p> - Create a default email </p>
 
 <p>
-<img src="https://i.imgur.com/23bprjc.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/3Sv80kc.png" height="80%" width="80%" alt=""/>
 </p>
 
 Download and install HeidiSQL before finishing osTicket in browser
@@ -120,7 +120,7 @@ Download and install HeidiSQL before finishing osTicket in browser
 <p>	- Create a database called "osTicket" </p>
 
 <p>
-<img src="https://i.imgur.com/XUGt8Y1.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/Yt83qFM.png" height="80%" width="80%" alt=""/>
 </p>
 Finish osTicket setup in browser
 <p>	- Fill in the fields with the information provided in HeidiSQL </p>
@@ -130,14 +130,14 @@ Finish osTicket setup in browser
 <p>		- Click Install Now </p>
 
 <p>
-<img src="https://i.imgur.com/LR31gzD.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/RHnQNkh.png" height="80%" width="80%" alt=""/>
 </p>
 
 If there are no errors, Congratulations!!!
 <p> Browse to your help desk login in page: <ul> - http://localhost/osTicket/scp/login.php </ul> </p>
 
 <p>
-<img src="https://i.imgur.com/g0nO27U.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/yWnCnoU.png" height="80%" width="80%" alt=""/>
 </p>
 
 
@@ -145,7 +145,7 @@ If there are no errors, Congratulations!!!
 	<ul> - http://localhost/osTicket/ </ul>
 
 <p>
-<img src="https://i.imgur.com/Z56cxGE.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/QNGNsar.png" height="80%" width="80%" alt=""/>
 </p>
 
 Clean up Files
