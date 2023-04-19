@@ -29,15 +29,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - HeidiSQL
 
 <h2>Installation Steps</h2>
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<body>
-<p>
 <p> -Install and Enable IIS with CGI withing Windows </p>
 <ul>
 <p> - Go to start and search for world wide web services -> application development features -> CGI </p></ul>
+<p>
+<img src="https://i.imgur.com/8ZaTkEA.png" height="80%" width="80%" alt=""/>
+</p>
+<body>
+<p>
 <p> - Download and install PHP Manager for IIS </p>
 <p> - Download and install Rewrite Module </p>
 <p> - Create a directory C:\PHP </p>
@@ -54,9 +53,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </body>
 </br>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 <p> Go back to start and search for IIS, right-click to open as an Admin. Register PHP from within IIS and refresh </p>
 
 Install osTicket v1.15.8
@@ -67,6 +64,9 @@ Refresh IIS
 	<p>- Click sites -> default -> osTicket </p>
 	<p>- On the right side select "Browse *:80"</p>
 osTicket should appear on a tab
+<p>
+<img src="https://i.imgur.com/BPBHosk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 There'll be a few extensions that aren't enabled, to enable them
 	<p> - Go to IIS click sites -> default -> osTicket </p>
 	<p> - Double-click PHP Manager </p>
@@ -80,7 +80,7 @@ There'll be a few extensions that aren't enabled, to enable them
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/n81y664.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Rename: ost-config.php
