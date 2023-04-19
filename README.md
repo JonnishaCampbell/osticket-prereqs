@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <ul>
 <p> - Go to start and search for world wide web services -> application development features -> CGI </p></ul>
 <p>
-<img src="https://i.imgur.com/8ZaTkEA.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/oNtKvOQ.png" height="80%" width="80%" alt=""/>
 </p>
 <body>
 <p>
@@ -69,12 +69,12 @@ Refresh IIS
 	<p>- On the right side select "Browse *:80"</p>
 	
 <p>
-<img src="https://i.imgur.com/hxA7yT4.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/jeLschR.png" height="80%" width="80%" alt=""/>
 </p>
 
 osTicket should appear on a tab
 <p>
-<img src="https://i.imgur.com/BPBHosk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vjrkSQ8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 There'll be a few extensions that aren't enabled, to enable them
 	<p> - Go to IIS click sites -> default -> osTicket </p>
@@ -85,14 +85,14 @@ There'll be a few extensions that aren't enabled, to enable them
 		<ul> - php_intl.dll </ul>
 		<ul> - php_opcache.dll </ul>
 <p>
-<img src="https://i.imgur.com/o2SLhwp.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/0oO3M7z.png" height="80%" width="80%" alt=""/>
 </p>		
 	<p> - Refresh the osTicket site in browser and notice the extensions are now enabled </p>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/n81y664.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/o6NvowX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Rename: ost-config.php
