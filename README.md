@@ -57,7 +57,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p> Go back to start and search for IIS, right-click to open as an Admin. Register PHP from within IIS and refresh </p>
 
 <p>
-<img src="https://i.imgur.com/t4OOZjG.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/v8mVI06.png" height="80%" width="80%" alt=""/>
 </p>
 
 Install osTicket v1.15.8
