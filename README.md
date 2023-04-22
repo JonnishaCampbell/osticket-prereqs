@@ -152,4 +152,6 @@ Clean up Files
 <p>	- Delete the setup file in the following directory: C:\inetpup\wwwroot\osTicket\setup </p>
 <p>	- Set Permissions to "Read" only by right-clicking C:\inetpub\wwwroot\osTicket\include\ost-config.php and going into the properties </p>
 </p>
+
+Click this link to go to the <a href="https://github.com/JonnishaCampbell/post-install-config"> post installation configuration</a> section 
 <br />
